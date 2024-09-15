@@ -1,6 +1,6 @@
 # Run an application from memory 
 ## [wojciechkulik.pl/csharp/run-an-application-from-memory](https://wojciechkulik.pl/csharp/run-an-application-from-memory)
-## [Sample-Projects]([https://wojciechkulik.pl/csharp/run-an-application-from-memory](https://github.com/wojciech-kulik/Sample-Projects/tree/master/Windows%20Desktop/NET_MemoryAppLoader))
+## [Sample-Projects](https://github.com/wojciech-kulik/Sample-Projects/tree/master/Windows%20Desktop/NET_MemoryAppLoader)
 ## What for?
 There are many reasons why running an application from memory may be useful. For example your machine might have white-listed applications or you might want to gain some security by deploying encrypted software, which can be run only by a special launcher.
 ## Console and Windows Forms Applications
